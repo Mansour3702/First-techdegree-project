@@ -120,9 +120,6 @@ ul.skills {
 .skills li:nth-child(odd) {
   background: #202020;
 }
-.hobbies {
-  width: 120;
-}
 
 footer {
   width: 100%;
